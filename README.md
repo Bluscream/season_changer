@@ -6,7 +6,7 @@ This tool allows syncing the day of year and summertime ingame with real-world v
 It also allows you to specify seasons which can by linked for you at certain 
 
 ## Installation
-after_sdk_warning=
+
 1. Download the latest release from the [releases](https://github.com/Bluscream/season_changer/releases) page.
 2. Extract `Season.Changer.zip` to your SCS game folder (Example: `C:\Program Files (x86)\Steam\Steamapps\common\Euro Truck Simulator 2\`).
 3. Edit the configuration file located at `<Euro Truck Simulator 2>\bin\win_x64\plugins\season_changer\Seasons.ini` to your needs. (You can add/remove as many seasons as you like as long as the days don't cross)
